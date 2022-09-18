@@ -1,2 +1,2 @@
-# Informatio-Retrieval
+# Information-Retrieval
 
